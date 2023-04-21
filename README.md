@@ -4,6 +4,8 @@
 
 While i was doing Burp's lab for deserialization, the extension for deserialization stopped working. So i thought that why not create my own simple tool to automate it.
 
+Ysoserial.jar can be downloaded from https://github.com/frohoff/ysoserial
+
 Before using, change 
 1) Path of java
 2) Path of ysoserial

@@ -11,7 +11,8 @@ Before using, change
 2) Path of ysoserial
 3) User creds.
 
-Run the script with
+
+Usage:
 
 ```
 python3 SDS.py

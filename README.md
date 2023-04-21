@@ -1,3 +1,7 @@
+=================================================
+**Simple Deserialization Script**
+=================================================
+
 While i was doing Burp's lab for deserialization, the extension for deserialization stopped working. So i thought that why not create my own simple tool to automate it.
 
 Before using, change 

